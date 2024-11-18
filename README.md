@@ -8,6 +8,7 @@ A collection of all my configuration dotfiles.
     - Battery Indicater
     - Volume OSD
     - Brightness OSD
+    - Lock screen
 - Easy theming using xrdb
 
 ![image](assets/awesomewmdesktop.png)
